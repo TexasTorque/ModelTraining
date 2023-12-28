@@ -1,6 +1,6 @@
-train: /Users/justus/Projects/Training/datasets/garage/train/images
-val: /Users/justus/Projects/Training/datasets/garage/valid/images
-test: /Users/justus/Projects/Training/datasets/garage/test/images
+train: ../garage/train/images
+val: ../garage/valid/images
+test: ../garage/test/images
 
 nc: 2
 names: ['blue-bucket', 'orange-bucket']
