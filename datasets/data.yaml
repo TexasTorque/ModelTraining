@@ -1,0 +1,13 @@
+train: /Users/justus/Projects/Training/datasets/garage/train/images
+val: /Users/justus/Projects/Training/datasets/garage/valid/images
+test: /Users/justus/Projects/Training/datasets/garage/test/images
+
+nc: 2
+names: ['blue-bucket', 'orange-bucket']
+
+roboflow:
+  workspace: texas-torque
+  project: garage-buckets
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/texas-torque/garage-buckets/dataset/2
