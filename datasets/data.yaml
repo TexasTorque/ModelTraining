@@ -1,9 +1,9 @@
-train: ../garage/train/images
-val: ../garage/valid/images
-test: ../garage/test/images
+train: ../v1/train/images
+val: ../v1/valid/images
+test: ../v1/test/images
 
-nc: 2
-names: ['blue-bucket', 'orange-bucket']
+nc: 1
+names: ['notes']
 
 roboflow:
   workspace: texas-torque
