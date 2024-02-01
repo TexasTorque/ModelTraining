@@ -1,6 +1,6 @@
-train: ../v1/train/images
-val: ../v1/valid/images
-test: ../v1/test/images
+train: ../note/train/images
+val: ../note/valid/images
+test: ../note/test/images
 
 nc: 1
 names: ['notes']
